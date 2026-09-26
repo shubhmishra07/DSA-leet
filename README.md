@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/shubhmishra07/DSA-leet/tree/master/0835-image-overlap) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhmishra07/DSA-leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhmishra07/DSA-leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhmishra07/DSA-leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/shubhmishra07/DSA-leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shubhmishra07/DSA-leet/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
