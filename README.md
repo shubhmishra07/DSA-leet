@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/0219-contains-duplicate-ii) |
 | [0835-image-overlap](https://github.com/shubhmishra07/DSA-leet/tree/master/0835-image-overlap) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhmishra07/DSA-leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhmishra07/DSA-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhmishra07/DSA-leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubhmishra07/DSA-leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhmishra07/DSA-leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
