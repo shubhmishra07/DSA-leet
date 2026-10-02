@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/0219-contains-duplicate-ii) |
 | [0835-image-overlap](https://github.com/shubhmishra07/DSA-leet/tree/master/0835-image-overlap) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhmishra07/DSA-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhmishra07/DSA-leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhmishra07/DSA-leet/tree/master/3483-unique-3-digit-even-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhmishra07/DSA-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/shubhmishra07/DSA-leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/3904-smallest-stable-index-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhmishra07/DSA-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhmishra07/DSA-leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhmishra07/DSA-leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shubhmishra07/DSA-leet/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/shubhmishra07/DSA-leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhmishra07/DSA-leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
