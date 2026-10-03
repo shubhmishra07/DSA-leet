@@ -127,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhmishra07/DSA-leet/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shubhmishra07/DSA-leet/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shubhmishra07/DSA-leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
